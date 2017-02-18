@@ -1,0 +1,1 @@
+/usr/lib/python3.5/bisect.pyGST%20DATA/manjaro_resp/NewBackup_Ma

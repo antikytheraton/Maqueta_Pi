@@ -1,0 +1,1 @@
+/usr/lib/python3.5/struct.py.pys.pyATA/manjaro_resp/NewBackup_Ma
